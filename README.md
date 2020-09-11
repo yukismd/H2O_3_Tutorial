@@ -8,8 +8,10 @@ H2O-3チュートリアル
 - ローカルWindows環境で実施
   
 ***
-### Python APIによる回帰問題に関するチュートリアル  
-
+### Python APIによる回帰問題に関するチュートリアル  ➡ UNDER CONSTRUCTION
+[**H2O-3 Regression Tutorial.ipynb**](https://github.com/yukismd/H2O_3_Tutorial/blob/master/H2O-3%20Regression%20Tutorial.ipynb)
+- [H2O-3 Tutorials](https://training.h2o.ai/h2o3-tutorials)の[1B. Introduction to Machine Learning with H2O-3 - Regression](https://training.h2o.ai/products/1b-introduction-to-machine-learning-with-h2o-3-regression)に沿った内容  
+  
 ***
 ### Python APIによるAutoMLに関するチュートリアル  
 
