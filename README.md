@@ -7,4 +7,10 @@ H2O-3チュートリアル
 - [H2O-3 Tutorials](https://training.h2o.ai/h2o3-tutorials)の[1A. Introduction to Machine Learning with H2O-3 - Classification](https://training.h2o.ai/products/1a-introduction-to-machine-learning-with-h2o-3-classification)に沿った内容  
 - ローカルWindows環境で実施
   
+***
+### Python APIによる回帰問題に関するチュートリアル  
+
+***
+### Python APIによるAutoMLに関するチュートリアル  
+
 ***  
