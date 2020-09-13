@@ -4,12 +4,12 @@ H2O-3チュートリアル
 [H2O-3 Documentation](https://docs.h2o.ai/h2o/latest-stable/h2o-docs/index.html)
   
 ***
-### install  
-インストールメモ  
+### 環境構築に関するメモ
+[install](./install)
   
 ***
-### python_api  
-Python APIチュートリアル  
+### Python APIチュートリアル
+[python_api](./python_api) 
 [H2O-3 Python API Documentation](https://docs.h2o.ai/h2o/latest-stable/h2o-py/docs/index.html)
   
 ***
