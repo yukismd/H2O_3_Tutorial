@@ -14,7 +14,7 @@ H2O-3 Python APIチュートリアル
 ### Python APIによる回帰問題に関するチュートリアル  ➡ UNDER CONSTRUCTION
 [**H2O-3 Regression Tutorial.ipynb**](https://github.com/yukismd/H2O_3_Tutorial/blob/master/H2O-3%20Regression%20Tutorial.ipynb)
 - [H2O-3 Tutorials](https://training.h2o.ai/h2o3-tutorials)の[1B. Introduction to Machine Learning with H2O-3 - Regression](https://training.h2o.ai/products/1b-introduction-to-machine-learning-with-h2o-3-regression)に沿った内容  
-- H2OXGBoostEstimatorはWindowsではサポートされていない
+- AWS Amazon Linux環境で実施（H2OXGBoostEstimatorはWindowsではサポートされていない）
   
 ***
 ### Python APIによるAutoMLに関するチュートリアル  
