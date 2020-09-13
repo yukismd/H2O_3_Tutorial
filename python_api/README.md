@@ -1,5 +1,8 @@
 # H2O_3_Tutorial
-H2O-3チュートリアル  
+H2O-3 Python APIチュートリアル  
+  
+[公式Document](https://docs.h2o.ai/h2o/latest-stable/h2o-docs/index.html)
+[公式Python API Document](https://docs.h2o.ai/h2o/latest-stable/h2o-py/docs/index.html)
   
 ***
 ### Python APIによる分類問題に関するチュートリアル  
