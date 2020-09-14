@@ -1,4 +1,6 @@
 # .ipynb_checkpoints/ディレクトリの除外
 .ipynb_checkpoints/
-
 python_api/.ipynb_checkpoints/
+
+# ignore linux background log file
+nohup.out
