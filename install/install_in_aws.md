@@ -15,7 +15,7 @@
 	- [ダウンロードページ](https://www.anaconda.com/products/individual)
 	- インストール
 	- 環境変数の追加："/インストール先/anaconda3/bin:/インストール先/anaconda3/condabin"
-	- conda仮想環境の作成.Python 3.6（最新の3.8等でH2Oがサポートされてないため）
+	- conda仮想環境の作成.Python 3.6（[サポートされるバージョン](http://docs.h2o.ai/h2o/latest-stable/h2o-docs/welcome.html#requirements)）
 	- jupyterの設定（コンフィグ(jupyter_notebook_config.py)など）
 	- h2oパッケージのインストール([Installing H2O-3](https://docs.h2o.ai/h2o/latest-stable/h2o-py/docs/intro.html#installing-h2o-3))
 	- インストールしたh2oパッケージのバージョン確認
