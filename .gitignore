@@ -1,4 +1,4 @@
-# .ipynb_checkpoints/ディレクトリの除外
+# ignore jupyter notebook backup
 .ipynb_checkpoints/
 python_api/.ipynb_checkpoints/
 
