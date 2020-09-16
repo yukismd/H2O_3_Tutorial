@@ -17,6 +17,6 @@
   
 ***
 ### Python APIによるAutoMLに関するチュートリアル   >> UNDER CONSTRUCTION
-[**H2O-3 Regression Tutorial.ipynb**](./H2O-3%20AutoML%20Tutorial.ipynb)
+[**H2O-3 AutoML Tutorial**](./H2O-3%20AutoML%20Tutorial.ipynb)
 - [H2O-3 Tutorials](https://training.h2o.ai/h2o3-tutorials)の[1C. Introduction to Machine Learning with H2O-3 - AutoML](https://training.h2o.ai/products/1c-introduction-to-machine-learning-with-h2o-3-automl)に沿った内容  
 ***  
