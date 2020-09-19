@@ -16,7 +16,14 @@
 - AWS Amazon Linux環境で実施（H2OXGBoostEstimatorはWindowsではサポートされていない）
   
 ***
-### Python APIによるAutoMLに関するチュートリアル   >> UNDER CONSTRUCTION
+### Python APIによるAutoMLに関するチュートリアル
 [**H2O-3 AutoML Tutorial**](./H2O-3%20AutoML%20Tutorial.ipynb)
 - [H2O-3 Tutorials](https://training.h2o.ai/h2o3-tutorials)の[1C. Introduction to Machine Learning with H2O-3 - AutoML](https://training.h2o.ai/products/1c-introduction-to-machine-learning-with-h2o-3-automl)に沿った内容  
 ***  
+H2O-3の特徴
+- 欠損処理の自動化
+- カテゴリ変数のEncoding処理の自動化
+- 独自のアルゴリズム実装と詳細なハイパーパラメーターの指定
+- 詳細な予測結果(精度指標等)の表示
+- Error発生時における、対応法など詳細なメッセージ
+- AutoMLの使いやすさ
