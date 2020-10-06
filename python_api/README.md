@@ -22,7 +22,7 @@
 AWS Amazon Linux環境で実施（注：AutoMLにH2OXGBoostEstimatorを含める場合Windows以外の環境を利用）
   
 ***
-### Feature Enginialingのユースケース
+### Feature Engineering ユースケース
 [**Feature_Engineering_Deep_Dive.ipynb**](./Feature_Engineering_Deep_Dive.ipynb)
 
 ***
