@@ -20,7 +20,12 @@
 [**H2O-3 AutoML Tutorial**](./H2O-3%20AutoML%20Tutorial.ipynb)
 - [H2O-3 Tutorials](https://training.h2o.ai/h2o3-tutorials)の[1C. Introduction to Machine Learning with H2O-3 - AutoML](https://training.h2o.ai/products/1c-introduction-to-machine-learning-with-h2o-3-automl)に沿った内容  
 AWS Amazon Linux環境で実施（注：AutoMLにH2OXGBoostEstimatorを含める場合Windows以外の環境を利用）
-***  
+  
+***
+### Feature Enginialingのユースケース
+[**Feature_Engineering_Deep_Dive.ipynb**](./Feature_Engineering_Deep_Dive.ipynb)
+
+***
 H2O-3の特徴
 - 欠損処理の自動化
 - カテゴリ変数のEncoding処理の自動化
