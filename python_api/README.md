@@ -28,7 +28,10 @@ AWS Amazon Linux環境で実施（注：AutoMLにH2OXGBoostEstimatorを含める
 ***
 ### Feature Engineeringに関するチュートリアル
 [**Feature_Engineering_Deep_Dive.ipynb**](./Feature_Engineering_Deep_Dive.ipynb)
-
+- 変数作成の練習
+- Feature Engineeringの例
+- Feature Engineeringの効果の確認
+  
 ***
 H2O-3の特徴
 - 欠損処理の自動化
