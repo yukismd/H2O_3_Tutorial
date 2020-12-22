@@ -31,7 +31,12 @@ AWS Amazon Linux環境で実施（注：AutoMLにH2OXGBoostEstimatorを含める
 - 変数作成の練習
 - Feature Engineeringの例
 - Feature Engineeringの効果の確認
-  
+
+***
+### Clusteringに関するチュートリアル
+[**H2O-3_Unsupervised_Clustering.ipynb**](./H2O-3_Unsupervised_Clustering.ipynb)
+- k-means
+
 ***
 H2O-3の特徴
 - 欠損処理の自動化
