@@ -11,3 +11,16 @@
 - [**Learning_Center_Contents**](./Learning_Center_Contents)：H2O Learning Center（公式）の写経notebook
 - [**Anomaly_Detection**](./Anomaly_Detection)：異常検知チュートリアル
 - [**Tutorials**](./Tutorials)：その他チュートリアル
+
+
+***
+H2O-3の特徴
+- アルゴリズム
+  - 欠損処理の自動化
+  - カテゴリ変数のEncoding処理の自動化
+  - 独自のアルゴリズム実装と詳細なハイパーパラメーターの指定
+  - 詳細な予測結果(精度指標等)の表示
+  - Error発生時における、対応法など詳細なメッセージ
+  - AutoMLの使いやすさ
+- 環境
+  - サーバ環境での実施なのでスケールアップの容易さ
