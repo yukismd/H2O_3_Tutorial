@@ -1,4 +1,4 @@
-### Learning Center (H2O-3)
+### 公式Learning Center(H2O-3)の実施
 
 ***
 #### Python APIによる分類問題に関するチュートリアル  
