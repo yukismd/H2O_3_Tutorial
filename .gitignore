@@ -1,4 +1,4 @@
-# ignore jupyter notebook backup
+# ignore jupyter notebook backup folders
 .ipynb_checkpoints/
 python_api/.ipynb_checkpoints/
 
@@ -6,7 +6,7 @@ python_api/.ipynb_checkpoints/
 nohup.out
 
 # mac files
-.DS_Store/
+.DS_Store
 
 # ms power point files
 *.pptx
