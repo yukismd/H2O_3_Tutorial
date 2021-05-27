@@ -9,5 +9,5 @@
 ***
 ### Contents
 - [**Learning_Center_Contents**](./Learning_Center_Contents)：H2O Learning Center（公式）の写経notebook
-- [**Anomaly_Detection**](./python_api)：異常検知チュートリアル
+- [**Anomaly_Detection**](./Anomaly_Detection)：異常検知チュートリアル
 - [**Tutorials**](./Tutorials)：その他チュートリアル
