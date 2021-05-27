@@ -11,11 +11,3 @@
 [**H2O-3_Unsupervised_Clustering.ipynb**](./H2O-3_Unsupervised_Clustering.ipynb)
 - k-means
 
-***
-H2O-3の特徴
-- 欠損処理の自動化
-- カテゴリ変数のEncoding処理の自動化
-- 独自のアルゴリズム実装と詳細なハイパーパラメーターの指定
-- 詳細な予測結果(精度指標等)の表示
-- Error発生時における、対応法など詳細なメッセージ
-- AutoMLの使いやすさ
