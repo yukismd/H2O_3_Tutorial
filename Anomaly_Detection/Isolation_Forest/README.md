@@ -23,3 +23,8 @@ Flowによる実施例
 
 <iframe src="https://azu.github.io/github-issue-widget/?owner=efcl&repo=efcl.github.io&random"
         allowtransparency="true" frameborder="0" scrolling="0" width="100%"></iframe>
+
+
+<iframe src="https://azu.github.io/github-issue-widget/?owner=efcl&repo=efcl.github.io&limit=10&state=closed"
+        allowtransparency="true" frameborder="0" scrolling="0" width="100%"></iframe>
+        
