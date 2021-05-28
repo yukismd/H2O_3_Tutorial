@@ -18,3 +18,8 @@ Flowによる実施例
 >
 > https://www.slideshare.net/YukiShimada2/nn-cnn-and-image-analysis
 >
+
+
+
+<iframe src="https://azu.github.io/github-issue-widget/?owner=efcl&repo=efcl.github.io&random"
+        allowtransparency="true" frameborder="0" scrolling="0" width="100%"></iframe>
