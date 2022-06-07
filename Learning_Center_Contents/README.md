@@ -5,7 +5,7 @@
 ***
 #### Python APIによる分類問題に関するチュートリアル  
 [**H2O-3 Classification Tutorial.ipynb**](./H2O-3%20Classification%20Tutorial.ipynb)
-- [Introduction to Machine Learning with H2O-3 - Classification]([https://training.h2o.ai/products/1a-introduction-to-machine-learning-with-h2o-3-classification](https://h2oai.github.io/tutorials/introduction-to-machine-learning-with-h2o-3-classification/#0))に沿った内容  
+- [Introduction to Machine Learning with H2O-3 - Classification](https://h2oai.github.io/tutorials/introduction-to-machine-learning-with-h2o-3-classification/#0)に沿った内容  
 - ローカルWindows環境で実施
 
 ***
