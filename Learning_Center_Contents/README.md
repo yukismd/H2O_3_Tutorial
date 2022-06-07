@@ -1,6 +1,6 @@
 ## H2O.ai Self-Paced Coursesの実施
 
-[H2O.ai Self-Paced Courses（公式）]  
+[H2O.ai Self-Paced Courses（公式）](https://h2oai.github.io/tutorials/)  
 
 ***
 #### Python APIによる分類問題に関するチュートリアル  
