@@ -1,10 +1,8 @@
 # OSS H2O（H20-3）チュートリアル
   
 [Product Home](https://www.h2o.ai/products/h2o/)  
-#### Documents
-- [H2O-3 Documentation](https://docs.h2o.ai/h2o/latest-stable/h2o-docs/index.html)
-- [Python API](https://docs.h2o.ai/h2o/latest-stable/h2o-py/docs/index.html)
-- [R API](https://docs.h2o.ai/h2o/latest-stable/h2o-r/docs/index.html)
+[Document lists](https://docs.h2o.ai/h2o-3/index.html)
+[Download](https://h2o-release.s3.amazonaws.com/h2o/rel-zumbo/2/index.html)
   
 ***
 ### Repo Contents
