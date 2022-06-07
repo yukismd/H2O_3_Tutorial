@@ -6,7 +6,7 @@
   
 ***
 ### Repo Contents
-- [**Learning_Center_Contents**](./Learning_Center_Contents)：H2O Learning Center（公式）の写経notebook
+- [**Learning_Center_Contents**](./Learning_Center_Contents)：H2O.ai Self-Paced Courses（公式）の内容
 - [**Anomaly_Detection**](./Anomaly_Detection)：異常検知チュートリアル
 - [**Tutorials**](./Tutorials)：その他チュートリアル
 
