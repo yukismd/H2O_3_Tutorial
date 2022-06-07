@@ -1,5 +1,5 @@
-# H2O_3_Tutorial
-### OSS H2O(H20-3)チュートリアル  
+# OSS H2O（H20-3）チュートリアル
+  
 [Product Home](https://www.h2o.ai/products/h2o/)  
 #### Documents
 - [H2O-3 Documentation](https://docs.h2o.ai/h2o/latest-stable/h2o-docs/index.html)
