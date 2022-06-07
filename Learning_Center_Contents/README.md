@@ -16,7 +16,7 @@
 
 ***
 #### Python APIによるAutoMLに関するチュートリアル
-[**H2O-3 AutoML Tutorial**](./H2O-3%20AutoML%20Tutorial.ipynb)
+[**H2O-3 AutoML Tutorial.ipynb**](./H2O-3%20AutoML%20Tutorial.ipynb)
 - [Introduction to Machine Learning with H2O-3 - AutoML](https://h2oai.github.io/tutorials/introduction-to-machine-learning-with-h2o-3-automl/#0)に沿った内容  
 AWS Amazon Linux環境で実施（注：AutoMLにH2OXGBoostEstimatorを含める場合Windows以外の環境を利用）
   
