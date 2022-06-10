@@ -4,15 +4,15 @@
 ## H2O.ai Self-Paced Coursesの内容
 [H2O.ai Self-Paced Courses（公式）](https://h2oai.github.io/tutorials/)  
 
-#### [LearningCenter_1_H2O-3_Classification_Tutorial.ipynb](./H2O-3%20Classification%20Tutorial.ipynb)
+#### [LearningCenter_1_H2O-3_Classification_Tutorial.ipynb](./LearningCenter_1_H2O-3_Classification_Tutorial.ipynb)
 - [Introduction to Machine Learning with H2O-3 - Classification](https://h2oai.github.io/tutorials/introduction-to-machine-learning-with-h2o-3-classification/#0)に沿った内容  
 - XXX
 
-#### [LearningCenter_2_H2O-3_Regression_Tutorial.ipynb](./H2O-3%20Regression%20Tutorial.ipynb)
+#### [LearningCenter_2_H2O-3_Regression_Tutorial.ipynb](./LearningCenter_2_H2O-3_Regression_Tutorial.ipynb)
 - [Introduction to Machine Learning with H2O-3 - Regression](https://h2oai.github.io/tutorials/introduction-to-machine-learning-with-h2o-3-regression/#0)に沿った内容  
 - XXX
 
-#### [LearningCenter_3_H2O-3_AutoML_Tutorial.ipynb](./H2O-3%20AutoML%20Tutorial.ipynb)
+#### [LearningCenter_3_H2O-3_AutoML_Tutorial.ipynb](./LearningCenter_3_H2O-3_AutoML_Tutorial.ipynb)
 - [Introduction to Machine Learning with H2O-3 - AutoML](https://h2oai.github.io/tutorials/introduction-to-machine-learning-with-h2o-3-automl/#0)に沿った内容
 - XXX
 
