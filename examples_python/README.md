@@ -2,7 +2,7 @@
 
 ***
 ## H2O.ai Self-Paced Coursesの内容
-[H2O.ai Self-Paced Courses（公式）](https://h2oai.github.io/tutorials/)  
+公式チュートリアル：[H2O.ai Self-Paced Courses](https://h2oai.github.io/tutorials/)  
 
 #### [LearningCenter_1_H2O-3_Classification_Tutorial.ipynb](./LearningCenter_1_H2O-3_Classification_Tutorial.ipynb)
 - [Introduction to Machine Learning with H2O-3 - Classification](https://h2oai.github.io/tutorials/introduction-to-machine-learning-with-h2o-3-classification/#0)に沿った内容  
