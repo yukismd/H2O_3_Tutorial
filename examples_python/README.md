@@ -12,13 +12,14 @@
 
 #### [LearningCenter_2_H2O-3_Regression_Tutorial.ipynb](./LearningCenter_2_H2O-3_Regression_Tutorial.ipynb)
 - [Introduction to Machine Learning with H2O-3 - Regression](https://h2oai.github.io/tutorials/introduction-to-machine-learning-with-h2o-3-regression/#0)に沿った内容  
-- 回帰モデル作成
+- 回帰モデルの作成
 - XGBoost, Deep Learning (Neural Network)
 - 上記モデルのハイパーパラメータチューニング（ランダムサーチ、グリッドサーチ）
 
 #### [LearningCenter_3_H2O-3_AutoML_Tutorial.ipynb](./LearningCenter_3_H2O-3_AutoML_Tutorial.ipynb)
 - [Introduction to Machine Learning with H2O-3 - AutoML](https://h2oai.github.io/tutorials/introduction-to-machine-learning-with-h2o-3-automl/#0)に沿った内容
-- XXX
+- 2値分類モデル、回帰モデルの作成
+- AutoMLの詳細
 
 
 ***
