@@ -5,8 +5,10 @@
 公式チュートリアル：[H2O.ai Self-Paced Courses](https://h2oai.github.io/tutorials/)  
 
 #### [LearningCenter_1_H2O-3_Classification_Tutorial.ipynb](./LearningCenter_1_H2O-3_Classification_Tutorial.ipynb)
-- [Introduction to Machine Learning with H2O-3 - Classification](https://h2oai.github.io/tutorials/introduction-to-machine-learning-with-h2o-3-classification/#0)に沿った内容  
-- XXX
+- [Introduction to Machine Learning with H2O-3 - Classification](https://h2oai.github.io/tutorials/introduction-to-machine-learning-with-h2o-3-classification/#0)に沿った内容
+- モデル作成のステップ（データのロード、データ分割、モデル学習、結果の確認、スコアリング）の詳細、ドキュメントへのリンク
+- GLM, Random Forest, Gradient Boosting Machine
+- 上記モデルのハイパーパラメータチューニング（ランダムサーチ、グリッドサーチ）
 
 #### [LearningCenter_2_H2O-3_Regression_Tutorial.ipynb](./LearningCenter_2_H2O-3_Regression_Tutorial.ipynb)
 - [Introduction to Machine Learning with H2O-3 - Regression](https://h2oai.github.io/tutorials/introduction-to-machine-learning-with-h2o-3-regression/#0)に沿った内容  
