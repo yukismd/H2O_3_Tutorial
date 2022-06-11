@@ -42,5 +42,6 @@
 
 #### [Feature_Engineering_Deep_Dive.ipynb](./Feature_Engineering_Deep_Dive.ipynb)
 - 手組みでの各種Feature Engineering（変数変換や結合、Target Encoding）の実施、効果の比較
+- AutoML
 
 
