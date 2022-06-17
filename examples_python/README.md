@@ -44,8 +44,16 @@
 ## 他
 #### [Quick_Demo.ipynb](./Quick_Demo.ipynb)
 - デモ用Notebook。- 教師あり学習の実施プロセスと機能紹介
-  - （H2O-3の起動、
-  - データのロード、データ分割、モデルのあてはめ(GBM)、機械学習の解釈可能性（Glogal,Local）、スコアリング（予測値,SHAP）、モデルの保存とロード、ハイパーパラメータチューニング、AutoML、H2O-3の終了）
+  - H2O-3の起動
+  - データのロード
+  - データ分割
+  - モデルのあてはめ(GBM)
+  - 機械学習の解釈可能性（Glogal,Local）
+  - スコアリング（予測値,SHAP）
+  - モデルの保存とロード
+  - ハイパーパラメータチューニング
+  - AutoML
+  - H2O-3の終了
 
 #### [Feature_Engineering_Deep_Dive.ipynb](./Feature_Engineering_Deep_Dive.ipynb)
 - 手組みでの各種Feature Engineering（変数変換や結合、Target Encoding）の実施、効果の比較
