@@ -1,5 +1,8 @@
 # H20-3 Example Jupyter Notebooks
 
+[**Document**](https://docs.h2o.ai/h2o/latest-stable/h2o-docs/index.html)
+[**Python API Reference**](https://docs.h2o.ai/h2o/latest-stable/h2o-py/docs/index.html)
+
 ***
 ## H2O.ai Self-Paced Coursesの内容
 公式チュートリアル：[H2O.ai Self-Paced Courses](https://h2oai.github.io/tutorials/)  
