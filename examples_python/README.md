@@ -43,7 +43,7 @@
 ***
 ## 他
 #### [Quick_Demo.ipynb](./Quick_Demo.ipynb)
-- デモ用Notebook。- 教師あり学習の実施プロセスと機能紹介
+- デモ用Notebook - 教師あり学習の実施プロセスと機能紹介
   - H2O-3の起動
   - データのロード
   - データ分割
