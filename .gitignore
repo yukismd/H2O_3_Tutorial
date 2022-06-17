@@ -10,3 +10,6 @@ nohup.out
 
 # ms power point files
 *.pptx
+
+# temp files
+tmp/
