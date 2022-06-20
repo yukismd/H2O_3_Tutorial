@@ -31,7 +31,7 @@
 #### [IsolationForest.ipynb](./IsolationForest.ipynb)
 - Isolation Forestによる異常検知実施例
 - 不均衡なラベルありデータに対し教師なし学習（Isolation Forest）を実施、精度検証。代理モデルを用い特徴量の貢献度を分析（GLM,決定木を、Isolation Forestのスコアリング結果をターゲット変数としてあてはめ）
-- H2O Flow(GUI操作)による実施例: [IsolationForest_Flow.pdf](./IsolationForest_Flow.pdf)
+- H2O Flow(GUI操作)による実施例: [../docs/IsolationForest_Flow.pdf](../docs/IsolationForest_Flow.pdf)
 
 #### [Autoencoder.ipynb](./Autoencoder.ipynb)
 - Autoencoderによる異常検知
