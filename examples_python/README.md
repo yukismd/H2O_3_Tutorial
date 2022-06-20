@@ -3,6 +3,7 @@
 [**Document**](https://docs.h2o.ai/h2o/latest-stable/h2o-docs/index.html)  
 [**Python API Reference**](https://docs.h2o.ai/h2o/latest-stable/h2o-py/docs/index.html)
 
+
 ***
 ## H2O.ai Self-Paced Coursesの内容
 公式チュートリアル：[H2O.ai Self-Paced Courses](https://h2oai.github.io/tutorials/)  
@@ -39,6 +40,13 @@
 #### [H2O-3_Unsupervised_Clustering.ipynb](./H2O-3_Unsupervised_Clustering.ipynb)
 - k-means
 
+***
+## テキストデータ
+
+#### [word2vec.ipynb](./word2vec.ipynb)
+- 日本語テキストに対するWord2vec
+- テキストのトークン化、ストップワード除去、分散表現の実施（Word2vec）、分散表現を特徴量として教師あり学習（GBM）を実施
+
 
 ***
 ## 他
@@ -58,5 +66,4 @@
 #### [Feature_Engineering_Deep_Dive.ipynb](./Feature_Engineering_Deep_Dive.ipynb)
 - 手組みでの各種Feature Engineering（変数変換や結合、Target Encoding）の実施、効果の比較
 - AutoML
-
 
