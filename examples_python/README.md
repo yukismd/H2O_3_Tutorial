@@ -63,6 +63,10 @@
   - AutoML
   - H2O-3の終了
 
+#### [Target_Encoding.ipynb](./Target_Encoding.ipynb)
+- Target Encoding(H2OTargetEncoderEstimator)の実施例
+- 多水準カテゴリカルデータにTarget Encodingを実施した場合としなかった場合で比較
+
 #### [Feature_Engineering_Deep_Dive.ipynb](./Feature_Engineering_Deep_Dive.ipynb)
 - 手組みでの各種Feature Engineering（変数変換や結合、Target Encoding）の実施、効果の比較
 - AutoML
