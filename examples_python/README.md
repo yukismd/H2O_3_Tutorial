@@ -5,7 +5,7 @@
 
 
 ***
-## H2O.ai Self-Paced Coursesの内容
+## H2O.ai Self-Paced Coursesの内容（教師あり学習、AutoML）
 公式チュートリアル：[H2O.ai Self-Paced Courses](https://h2oai.github.io/tutorials/)  
 
 #### [LearningCenter_1_H2O-3_Classification_Tutorial.ipynb](./LearningCenter_1_H2O-3_Classification_Tutorial.ipynb)
