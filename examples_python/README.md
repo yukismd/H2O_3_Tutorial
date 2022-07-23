@@ -67,6 +67,9 @@
 - 機械学習の解釈可能性（Machine Learning Interpretability）
 - モデルの比較
 
+#### [cross_validation.ipynb](./cross_validation.ipynb)
+- H2O-3のk分割交差検証法の仕様に関して
+
 #### [Target_Encoding.ipynb](./Target_Encoding.ipynb)
 - Target Encoding(H2OTargetEncoderEstimator)の実施例
 - 多水準カテゴリカルデータにTarget Encodingを実施した場合としなかった場合で比較
