@@ -13,3 +13,8 @@ nohup.out
 
 # temp files
 tmp/
+
+
+# R proj
+examples_r.Rproj
+.Rproj.user/
