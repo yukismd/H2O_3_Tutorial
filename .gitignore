@@ -18,3 +18,4 @@ tmp/
 # R proj
 examples_r.Rproj
 .Rproj.user/
+.Rhistory
