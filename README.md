@@ -6,8 +6,7 @@
   
 ***
 ### スライド
-(最新版)  
-[H2O-3 GettingStarted v220822.pdf](H2O-3 GettingStarted v220822.pdf)
+(最新版)[H2O-3_GettingStarted_v220822.pdf](H2O-3_GettingStarted_v220822.pdf)
 
 ***
 ### Python Examples
