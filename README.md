@@ -5,12 +5,15 @@
 [Download](https://h2o-release.s3.amazonaws.com/h2o/rel-zumbo/2/index.html)  
   
 ***
-### Python
-[examples_python](./examples_python)
-
+### スライド
+(最新版)[H2O-3 GettingStarted v220822.pdf](./H2O-3 GettingStarted v220822.pdf)
 
 ***
-### R
+### Python Examples
+[examples_python](./examples_python)
+
+***
+### R Examples
 [examples_r](./examples_r)
 
 ***
