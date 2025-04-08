@@ -9,7 +9,7 @@ nohup.out
 .DS_Store
 
 # ms power point files
-*.pptx
+#*.pptx
 
 # temp files
 tmp/
